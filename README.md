@@ -1,5 +1,4 @@
-# vue-crud
-
+# vue
 > A Vue.js project
 
 ## Build Setup
